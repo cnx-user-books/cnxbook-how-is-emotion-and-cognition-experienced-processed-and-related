@@ -1,104 +1,30 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11919</md:content-id>
-  <md:title>How Is Emotion and Cognition Experienced, Processed, and Related?</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>b01b6afe-b821-4238-af85-1626c4042f28</md:uuid>
-<md:slug>how-is-emotion-and-cognition-experienced-processed-and-related</md:slug>
-</metadata>
-
+    <md:content-id>col11919</md:content-id>
+    <md:title>How Is Emotion and Cognition Experienced, Processed, and Related?</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>b01b6afe-b821-4238-af85-1626c4042f28</md:uuid>
+    <md:slug>how-is-emotion-and-cognition-experienced-processed-and-related</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m60366"/>
-        
-      
-    
-    
-      <col:module document="m60048"/>
-        
-      
-    
-    
-      <col:module document="m60049"/>
-        
-      
-    
-    
-      <col:module document="m59315"/>
-        
-      
-    
-    
-      <col:module document="m59693"/>
-        
-      
-    
-    
-      <col:module document="m60008"/>
-        
-      
-    
-    
-      <col:module document="m60032"/>
-        
-      
-    
-    
-      <col:module document="m60040"/>
-        
-      
-    
-    
-      <col:module document="m58124"/>
-        
-      
-    
-    
-      <col:module document="m58122"/>
-        
-      
-    
-    
-      <col:module document="m58116"/>
-        
-      
-    
-    
-      <col:module document="m57938"/>
-        
-      
-    
-    
-      <col:module document="m57743"/>
-        
-      
-    
-    
-      <col:module document="m57699"/>
-        
-      
-    
-    
-      <col:module document="m57458"/>
-        
-      
-    
-    
-      <col:module document="m52495"/>
-        
-      
-    
-    
-      <col:module document="m58160"/>
-        
-      
-    
+    <col:module document="m60366"/>
+    <col:module document="m60048"/>
+    <col:module document="m60049"/>
+    <col:module document="m59315"/>
+    <col:module document="m59693"/>
+    <col:module document="m60008"/>
+    <col:module document="m60032"/>
+    <col:module document="m60040"/>
+    <col:module document="m58124"/>
+    <col:module document="m58122"/>
+    <col:module document="m58116"/>
+    <col:module document="m57938"/>
+    <col:module document="m57743"/>
+    <col:module document="m57699"/>
+    <col:module document="m57458"/>
+    <col:module document="m52495"/>
+    <col:module document="m58160"/>
   </col:content>
 </col:collection>
